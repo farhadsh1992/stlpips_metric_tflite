@@ -1,5 +1,7 @@
 # stlpips_metric_tflite
-TFlite version of Shift-tolerant Perceptual Similarity Metric  for tensorflow
+
+Converted TFlite version of Shift-tolerant Perceptual Similarity Metric  for tensorflow
+It is tesnorflow version of paper: https://paperswithcode.com/paper/shift-tolerant-perceptual-similarity-metric-1#code
 
 ## Example:
 ```python
