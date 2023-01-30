@@ -3,8 +3,8 @@
 import tensorflow as tf
 
 
-def im2tensor(path:str="", image:str=""):
-    if path != ""
+def im2tensor(path:str="", image:tf.Tensor=""):
+    if path != "":
       image = tf.io.read_file(path)
       image = tf.io.decode_jpeg(image)
       
